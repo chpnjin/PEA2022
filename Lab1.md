@@ -10,6 +10,9 @@ py檔連結
 https://colab.research.google.com/drive/1iv2NL_zdZZ6C63QSvtwPb5o6D3wF5YMC?usp=sharing
 
 <H2>Lab1-2 用Python學到國高中數學</H2>
+<H3>繪製函數圖形</H3>
+
+![圖片](https://user-images.githubusercontent.com/16370565/187061766-4d46a73c-0692-4ca8-b536-a2e874089aaf.png)
 
 
 <H2>Lab1-3 用Python實戰一下囉</H2>
