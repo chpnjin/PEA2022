@@ -14,5 +14,7 @@ https://colab.research.google.com/drive/1iv2NL_zdZZ6C63QSvtwPb5o6D3wF5YMC?usp=sh
 
 ![圖片](https://user-images.githubusercontent.com/16370565/187061766-4d46a73c-0692-4ca8-b536-a2e874089aaf.png)
 
+py檔連結
+https://colab.research.google.com/drive/16FGGSzyjwjecM1kV5MZ0KqWgsW5YHZQ2?usp=sharing
 
 <H2>Lab1-3 用Python實戰一下囉</H2>
