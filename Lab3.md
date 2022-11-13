@@ -8,6 +8,7 @@
 ##### [Lab 3-2 實戰時刻! Let’s fight!](#002)
 ##### [Lab 3-3 如何零基礎入門深度學習?](#003)
 ##### [Lab 3-4 數據集分割](#004)
+##### [Lab 3-5 應用實作:  “微笑檢測應用於使用者滿意分析”](#005)
 
 <a name="001"/>
 
@@ -20,13 +21,21 @@
 <a name="002"/>
 
 ## Lab 3-2 實戰時刻! Let’s fight!
-
-
+![圖片](https://user-images.githubusercontent.com/16370565/201510813-0360e67f-ed61-4e6a-9086-ae57cff2ca12.png)
+![圖片](https://user-images.githubusercontent.com/16370565/201510833-38b5e279-cd73-47ec-b806-3dfa1a2851fb.png)
 
 <a name="003"/>
 
 ## Lab 3-3 如何零基礎入門深度學習?
+![圖片](https://user-images.githubusercontent.com/16370565/201511864-ee374ad2-9978-4dc7-984f-eaf99b91cde1.png)
+![圖片](https://user-images.githubusercontent.com/16370565/201511889-4e6cdd78-abda-4a51-b195-568694cd4bbf.png)
+
 
 <a name="004"/>
 
 ## Lab 3-4 數據集分割
+![圖片](https://user-images.githubusercontent.com/16370565/201512081-6ec96336-8b23-4314-89f2-4c1640026a05.png)
+
+<a name="005"/>
+## Lab 3-5 應用實作:  “微笑檢測應用於使用者滿意分析”
+
