@@ -13,6 +13,6 @@
 
 <a name="001"/>
 
-## Lab 3-1 數據分析
+## Lab 4-1 起手式 1: 準備 + 人臉辨識
 
 ![圖片](https://user-images.githubusercontent.com/16370565/201512695-1d36b954-ad1d-4fc6-baf6-5f7eb09733a6.png)
